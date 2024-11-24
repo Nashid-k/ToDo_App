@@ -1,7 +1,4 @@
 
-
----
-
 # ToDo App
 
 A simple ToDo app built with **TypeScript** and **Snowpack**.
