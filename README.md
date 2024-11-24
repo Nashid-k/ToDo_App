@@ -1,4 +1,4 @@
-It looks like you're working on your first TypeScript project, a ToDo app, using **Snowpack** for bundling. Below is a brief explanation of **Snowpack** and a possible enhancement for your `README` file. You can add this information to the README file to explain the project and its setup.
+
 
 ---
 
